@@ -3427,16 +3427,16 @@ containing a value of this type.
         /**  Content description for the Toolbar icon used to collapse an expanded action mode. [CHAR LIMIT=NONE] 
          */
         public static int abc_toolbar_collapse_description=0x7f0a0004;
-        public static int app_name=0x7f0a0014;
+        public static int app_name=0x7f0a0017;
         /**  The class name to the ScrollingChildBehavior required for AppBarLayout 
          */
-        public static int appbar_scrolling_view_behavior=0x7f0a0015;
+        public static int appbar_scrolling_view_behavior=0x7f0a0014;
         /**  The class name to the BottomSheetBehavior 
          */
-        public static int bottom_sheet_behavior=0x7f0a0016;
+        public static int bottom_sheet_behavior=0x7f0a0015;
         /**  The text pattern for the character counter 
          */
-        public static int character_counter_pattern=0x7f0a0017;
+        public static int character_counter_pattern=0x7f0a0016;
         public static int empty=0x7f0a0022;
         public static int error=0x7f0a0020;
         public static int loading=0x7f0a001f;
@@ -3467,36 +3467,21 @@ containing a value of this type.
 	
  默认Activity主题 
          */
-        public static int ActivityDefaultTheme=0x7f0b015a;
+        public static int ActivityDefaultTheme=0x7f0b0158;
         /**  MD默认夜间色调主题 
          */
-        public static int ActivityDefaultThemeDark=0x7f0b015b;
+        public static int ActivityDefaultThemeDark=0x7f0b0159;
         /**  MD蓝色调主题 
          */
-        public static int ActivityMaterialDesignBlueTheme=0x7f0b015c;
+        public static int ActivityMaterialDesignBlueTheme=0x7f0b015a;
         /**  保活全透明 
          */
-        public static int ActivityOnePxForLiveTheme=0x7f0b015d;
+        public static int ActivityOnePxForLiveTheme=0x7f0b015b;
         public static int AlertDialog_AppCompat=0x7f0b0044;
         public static int AlertDialog_AppCompat_Light=0x7f0b0045;
         public static int Animation_AppCompat_Dialog=0x7f0b004b;
         public static int Animation_AppCompat_DropDownUp=0x7f0b004c;
-        public static int Animation_Design_BottomSheetDialog=0x7f0b0151;
-        /** 
-        Base application theme, dependent on API level. This theme is replaced
-        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
-    
-
-            Theme customizations available in newer API levels can go in
-            res/values-vXX/styles.xml, while customizations related to
-            backward-compatibility can go here.
-        
-         */
-        public static int AppBaseTheme=0x7f0b013e;
-        /**  Application theme. 
- All customizations that are NOT specific to a particular API-level can go here. 
-         */
-        public static int AppTheme=0x7f0b013f;
+        public static int Animation_Design_BottomSheetDialog=0x7f0b014f;
         public static int Base_AlertDialog_AppCompat=0x7f0b00d0;
         public static int Base_AlertDialog_AppCompat_Light=0x7f0b00d1;
         public static int Base_Animation_AppCompat_Dialog=0x7f0b00cc;
@@ -3688,7 +3673,7 @@ containing a value of this type.
     
          */
         public static int Base_Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b00b0;
-        public static int Base_Widget_Design_TabLayout=0x7f0b0144;
+        public static int Base_Widget_Design_TabLayout=0x7f0b0142;
         public static int Platform_AppCompat=0x7f0b010d;
         public static int Platform_AppCompat_Light=0x7f0b010e;
         /**  Overlay themes 
@@ -3761,13 +3746,13 @@ containing a value of this type.
         public static int TextAppearance_AppCompat_Widget_PopupMenu_Small=0x7f0b002a;
         public static int TextAppearance_AppCompat_Widget_Switch=0x7f0b0065;
         public static int TextAppearance_AppCompat_Widget_TextView_SpinnerItem=0x7f0b0066;
-        public static int TextAppearance_Design_CollapsingToolbar_Expanded=0x7f0b0150;
-        public static int TextAppearance_Design_Counter=0x7f0b0149;
-        public static int TextAppearance_Design_Counter_Overflow=0x7f0b014a;
-        public static int TextAppearance_Design_Error=0x7f0b0148;
-        public static int TextAppearance_Design_Hint=0x7f0b0147;
-        public static int TextAppearance_Design_Snackbar_Message=0x7f0b014b;
-        public static int TextAppearance_Design_Tab=0x7f0b0145;
+        public static int TextAppearance_Design_CollapsingToolbar_Expanded=0x7f0b014e;
+        public static int TextAppearance_Design_Counter=0x7f0b0147;
+        public static int TextAppearance_Design_Counter_Overflow=0x7f0b0148;
+        public static int TextAppearance_Design_Error=0x7f0b0146;
+        public static int TextAppearance_Design_Hint=0x7f0b0145;
+        public static int TextAppearance_Design_Snackbar_Message=0x7f0b0149;
+        public static int TextAppearance_Design_Tab=0x7f0b0143;
         /**  These styles didn't exist on v7. Since we only use the media template in later versions
          (ICS+), just define it here and use the correct references in values/v14 
  Use platform styles 
@@ -3868,12 +3853,12 @@ containing a value of this type.
         public static int Theme_AppCompat_Light_DialogWhenLarge=0x7f0b0100;
         public static int Theme_AppCompat_Light_NoActionBar=0x7f0b00fe;
         public static int Theme_AppCompat_NoActionBar=0x7f0b00fd;
-        public static int Theme_Design=0x7f0b0155;
-        public static int Theme_Design_BottomSheetDialog=0x7f0b0153;
-        public static int Theme_Design_Light=0x7f0b0156;
-        public static int Theme_Design_Light_BottomSheetDialog=0x7f0b0154;
-        public static int Theme_Design_Light_NoActionBar=0x7f0b0158;
-        public static int Theme_Design_NoActionBar=0x7f0b0157;
+        public static int Theme_Design=0x7f0b0153;
+        public static int Theme_Design_BottomSheetDialog=0x7f0b0151;
+        public static int Theme_Design_Light=0x7f0b0154;
+        public static int Theme_Design_Light_BottomSheetDialog=0x7f0b0152;
+        public static int Theme_Design_Light_NoActionBar=0x7f0b0156;
+        public static int Theme_Design_NoActionBar=0x7f0b0155;
         public static int ThemeOverlay_AppCompat=0x7f0b0108;
         /**  Theme overlay that replaces the normal control color, which by default is the same as the
          secondary text color, with the primary text color. 
@@ -3974,19 +3959,19 @@ containing a value of this type.
          */
         public static int Widget_AppCompat_Toolbar=0x7f0b0047;
         public static int Widget_AppCompat_Toolbar_Button_Navigation=0x7f0b0048;
-        public static int Widget_Design_AppBarLayout=0x7f0b014e;
-        public static int Widget_Design_BottomSheet_Modal=0x7f0b0152;
-        public static int Widget_Design_CollapsingToolbar=0x7f0b014d;
-        public static int Widget_Design_CoordinatorLayout=0x7f0b014f;
-        public static int Widget_Design_FloatingActionButton=0x7f0b0140;
-        public static int Widget_Design_NavigationView=0x7f0b0142;
-        public static int Widget_Design_ScrimInsetsFrameLayout=0x7f0b0141;
-        public static int Widget_Design_Snackbar=0x7f0b014c;
-        public static int Widget_Design_TabLayout=0x7f0b0143;
-        public static int Widget_Design_TextInputLayout=0x7f0b0146;
+        public static int Widget_Design_AppBarLayout=0x7f0b014c;
+        public static int Widget_Design_BottomSheet_Modal=0x7f0b0150;
+        public static int Widget_Design_CollapsingToolbar=0x7f0b014b;
+        public static int Widget_Design_CoordinatorLayout=0x7f0b014d;
+        public static int Widget_Design_FloatingActionButton=0x7f0b013e;
+        public static int Widget_Design_NavigationView=0x7f0b0140;
+        public static int Widget_Design_ScrimInsetsFrameLayout=0x7f0b013f;
+        public static int Widget_Design_Snackbar=0x7f0b014a;
+        public static int Widget_Design_TabLayout=0x7f0b0141;
+        public static int Widget_Design_TextInputLayout=0x7f0b0144;
         /**  活动对象暗度 
          */
-        public static int dialog_comment=0x7f0b0159;
+        public static int dialog_comment=0x7f0b0157;
     }
     public static final class styleable {
         /**  ============================================ 
