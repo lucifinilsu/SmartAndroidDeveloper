@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- 填充 @color/bg_toast-->
+    <solid android:color="@color/bg_toast"/>
+	<!-- 边框 -->
+    <stroke
+        android:width="0dip"
+        android:color="@color/Red" />
+	<!-- 强制内距 -->
+    <padding
+        android:bottom="6dip"
+        android:left="6dip"
+        android:right="6dip"
+        android:top="6dip" />
+    <!-- 圆角-->
+    <corners
+        android:bottomLeftRadius="6dip"
+        android:bottomRightRadius="6dip"
+        android:topLeftRadius="6dip"
+        android:topRightRadius="6dip" /> 
+    
+</shape>

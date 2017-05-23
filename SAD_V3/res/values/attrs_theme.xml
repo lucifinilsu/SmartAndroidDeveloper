@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 这里定义了基本的主题属性 ，可在具体项目里定义更多-->    
+	<declare-styleable name="themeBasic" >
+	    <!-- 背景色 -->
+	    <attr name="appBackgroundColor" format="color|reference" />
+	    <!-- 背景图片 -->
+	    <attr name="appBackgroundDrawable" format="reference" />
+	    <!-- 背景色深色 -->
+	    <attr name="appBackgroundColorDark" format="color|reference" />
+	    <!-- 背景深色图片 -->
+	    <attr name="appBackgroundDrawableDark" format="reference" />
+	    
+	    <!-- 主色调 -->
+	    <attr name="appPrimaryColor" format="color|reference" />
+	    <!-- 主色调深色 -->
+	   	<attr name="appPrimaryColorDark" format="color|reference" />
+	   	<!-- 主色调图片-->
+	   	<attr name="appPrimaryDrawable" format="reference" />
+	   	<!-- 主色调深色图片 -->
+	   	<attr name="appPrimaryDrawableDark" format="reference" />
+	   	
+	   	
+	   	<!-- 主色调二级色调 -->
+	    <attr name="appSecondaryColor" format="color|reference" />
+	    <!-- 主色调深色二级色调 -->
+	   	<attr name="appSecondaryColorDark" format="color|reference" />
+	   	<!-- 主色调二级色调图片-->
+	   	<attr name="appSecondaryDrawable" format="reference" />
+	   	<!-- 主色调深色二级色调图片 -->
+	   	<attr name="appSecondaryDrawableDark" format="reference" />
+	   	
+	   		   	
+	   	<!-- 辅助色 -->
+	   	<attr name="appAuxiliaryColor" format="color|reference"/>
+	   	<!-- 辅助色深色 -->
+	   	<attr name="appAuxiliaryColorDark" format="color|reference"/>
+	   	
+	   	<!-- 边框色 -->	   
+	   	<attr name="appBorderColor" format="color|reference"/>
+	   	<!-- 边框色深色 -->
+	   	<attr name="appBorderColorDark" format="color|reference"/>
+	   	
+	   	<!-- 阴影色 -->	   
+	   	<attr name="appShadowColor" format="color|reference"/>
+	   	<!-- 阴影色深色 -->
+	   	<attr name="appShadowColorDark" format="color|reference"/>
+	   	
+	   	<!-- 文字一级颜色 -->
+	   	<attr name="appTextPrimaryColor" format="color|reference"/>
+	   	<!-- 文字二级颜色 -->
+	   	<attr name="appTextSecondaryColor" format="color|reference"/>
+	   	<!-- 文字三级颜色 -->
+	   	<attr name="appTextTertiaryColor" format="color|reference"/>
+	   	<!-- 文字一级颜色根据主色反色 -->
+	   	<attr name="appTextPrimaryInverseColor" format="color|reference"/>
+	   	<!-- 文字二级颜色根据主色反色  -->
+	   	<attr name="appTextSecondaryInverseColor" format="color|reference"/>
+	   	<!-- 文字三级颜色根据主色反色  -->
+	   	<attr name="appTextTertiaryInverseColor" format="color|reference"/>
+	   	
+	   	<!-- 光标色 -->
+	   	<attr name="appTextCursorColor" format="color|reference"/>
+	   	<!-- 文字选择背景色 -->
+	   	<attr name="appTextSeletedBacgroundColor" format="color|reference"/>
+	   	<!-- 文字被选择时颜色 -->
+	   	<attr name="appTextSeletedColor" format="color|reference"/>
+	   	
+	   	<!-- 点击/选择高亮色 -->
+	   	<attr name="appViewSeletedOrPressedColor" format="color|reference"/>
+	   	
+	</declare-styleable>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShadowView">
+        <attr name="leftShadowSize" format="dimension" />
+        <attr name="RightShadowSize" format="dimension" />
+        <attr name="TopShadowSize" format="dimension" />
+        <attr name="BottomShadowSize" format="dimension" />
+        <attr name="ShadowColor" format="color|reference" />
+        <attr name="Radius" format="dimension"/>
+        <attr name="X_offset" format="dimension" />
+        <attr name="Y_offset" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="ShadowViewDefault" >
+        <attr name="ShadowViewDefaultStyle" format="reference" />
+    </declare-styleable>
+</resources>

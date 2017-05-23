@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- #3F51B5 -->
+    <color name="default_colorPrimary">#FF3F51B5</color>
+    <color name="default_colorPrimaryDark">#303F9F</color>
+    <color name="default_colorAccent">#FFFF4081</color>
+    <color name="default_textColorPrimary">#FFFFFF</color>
+    
+    <color name="default_appBackgroundColor">#FFFFFFFF</color>
+    <color name="default_appBackgroundColorDark">#FFF0F1F5</color>
+    <color name="default_appPrimaryColor">#FF3F51B5</color>
+    <color name="default_appPrimaryColorDark">#FF303F9F</color>
+    <color name="default_appSecondaryColor">#FF5722</color>
+    <color name="default_appSecondaryColorDark">#FF5722</color>
+    <color name="default_appAuxiliaryColor">#FFE1E2E6</color>
+    <color name="default_appAuxiliaryColorDark">#FFA7A8AB</color>
+    <color name="default_appBorderColor">#FFBDBDBD</color>
+    <color name="default_appBorderColorDark">#FFBDBDBD</color>
+    <color name="default_appShadowColor">#FF000000</color>
+    <color name="default_appShadowColorDark">#FF000000</color>
+    <color name="default_appTextPrimaryColor">#FF3E3F40</color>
+    <color name="default_appTextSecondaryColor">#FF969699</color>
+    <color name="default_appTextTertiaryColor">#FFC8C9CC</color>
+    <color name="default_appTextPrimaryInverseColor">#FFFFFFFF</color>
+    <color name="default_appTextSecondaryInverseColor">#FFFFFFFF</color>
+    <color name="default_appTextTertiaryInverseColor">#FFFFFFFF</color>
+    <color name="default_appTextCursorColor">#FF3F51B5</color>
+    <color name="default_appTextSeletedBacgroundColor">#FFC5CAE9</color>
+    <color name="default_appTextSeletedColor">#FFFFFFFF</color>
+    <color name="default_appViewSeletedOrPressedColor">#BDBDBD</color>
+</resources>
