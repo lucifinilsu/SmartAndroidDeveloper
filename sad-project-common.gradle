@@ -1,6 +1,6 @@
 project.ext {
     supportVersion="latest.release"//"27.+"
-    buildToolsVersion = "28.0.3"
+    buildToolsVersion = "28.0.2"
     compileSdkVersion = 28
     minSdkVersion = 18
     targetSdkVersion = 28
