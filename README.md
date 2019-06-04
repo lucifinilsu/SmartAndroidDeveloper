@@ -2,7 +2,6 @@
 
 # **<span style="mso-spacerun:'yes';font-family:Consolas;mso-fareast-font-family:宋体;font-weight:bold;font-size:16.0000pt;mso-font-kerning:22.0000pt;"><font face="宋体">敏捷开发框架</font>SmartAndroidDeveloper<font face="宋体">的主要思路及应用</font></span>****<span style="mso-spacerun:'yes';font-family:Consolas;mso-fareast-font-family:宋体;font-weight:bold;font-size:16.0000pt;mso-font-kerning:22.0000pt;"></span>**
 
-**<span style="mso-spacerun:'yes';font-family:Consolas;mso-fareast-font-family:宋体;font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;"><font face="宋体">作者：苏光磊</font></span>****<span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Consolas;mso-hansi-font-family:Consolas;mso-bidi-font-family:Consolas;font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;"><font face="宋体">（动静新闻</font>App<font face="宋体">客户端开发工程师、客户端架构设计师）</font></span>****<span style="mso-spacerun:'yes';font-family:Consolas;mso-fareast-font-family:宋体;font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;"></span>**
 
 **<span style="mso-spacerun:'yes';font-family:Consolas;mso-fareast-font-family:宋体;font-weight:bold;font-size:12.0000pt;mso-font-kerning:1.0000pt;"></span>**
 
