@@ -37,7 +37,7 @@ install {
                 }
                 
                 pom.withXml {
-                    asNode().removeAll()
+                    asNode().removeNode('dependencies')
                     def dependenciesNode = asNode().appendNode('dependencies')
 
                     // Iterate over the implementation dependencies (we don't want the test ones), adding a <dependency> node for each
